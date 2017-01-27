@@ -13,6 +13,8 @@ public class testClass {
 		
 		System.out.println("coucou here i am " + str); 
 		
+		System.out.println("coucou here i am salam"); 
+		
 	}
 
 }
