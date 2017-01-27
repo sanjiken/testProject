@@ -15,6 +15,11 @@ public class testClass {
 		
 		System.out.println("coucou here i am salam"); 
 		
+		System.out.println("coucou here i am salam111"); 
+		System.out.println("coucou here i am salam222"); 
+		
+		
+		
 	}
 
 }
