@@ -21,6 +21,7 @@ public class Aclass {
 		float b = 478;
 		float f = 1545;
 		return (b*f);
+	}
 		
 	
 }
