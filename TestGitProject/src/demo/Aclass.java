@@ -88,5 +88,9 @@ public class Aclass {
 	public Person person(){
 		return new Person();
 	}
+	
+	public Person addPerson(String nom){
+		return new Person(nom);
+	}
 
 }

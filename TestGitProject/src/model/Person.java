@@ -21,6 +21,9 @@ public class Person {
 		this.prenom = prenom;
 		this.phone = phone;
 	}
+	public Person(String nom) {
+		this.nom=nom;
+	}
 	/**
 	 * @return the nom
 	 */
