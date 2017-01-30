@@ -23,5 +23,12 @@ public class Anewclass {
 	public void setTest(String test) {
 		this.test = test;
 	}
-	
+	public Anewclass(){
+		
+	}
+	public Anewclass(int a, int b, String test){
+		this.a=a;
+		this.b=b;
+		this.test=test;
+	}
 }

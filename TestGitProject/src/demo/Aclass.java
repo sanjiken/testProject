@@ -84,5 +84,5 @@ public class Aclass {
 		float f = 1545;
 		return (b*f);
 	}
-	
+
 }
