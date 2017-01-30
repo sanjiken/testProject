@@ -45,6 +45,7 @@ public class Aclass {
 		}
 		
 		Person p = new Person();
+		// just a comment
 		
 		p.setNom("nader");
 		
