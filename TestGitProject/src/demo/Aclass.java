@@ -1,6 +1,7 @@
 package demo;
 
-import java.lang.management.GarbageCollectorMXBean;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Aclass {
 
@@ -28,6 +29,8 @@ public class Aclass {
 
 	}
 	public float essai22(){
+		List<TestnadGit> tag = new ArrayList<TestnadGit>();
+		tag.add(new TestnadGit());
 		float b = 478;
 		float f = 1545;
 		return (b*f);
