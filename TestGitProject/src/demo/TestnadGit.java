@@ -10,7 +10,23 @@ public class TestnadGit {
 		
 	}
 	
-	public void ajoutAnotherRound(){
+	public void ajoutAnotherRound1(){
 		String s ="hello";
 	}
+	public void ajoutAnotherRound2(){
+		String s ="hello";
+	}
+	public void ajoutAnotherRound3(){
+		String s ="hello";
+	}
+	public void ajoutAnotherRound4(){
+		String s ="hello";
+	}
+	public void ajoutAnotherRound5(){
+		String s ="hello";
+	}
+	public void ajoutAnotherRound6(){
+		String s ="hello";
+	}
+	
 }
