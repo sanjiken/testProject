@@ -1,5 +1,7 @@
 package demo;
 
+import model.Person;
+
 public class TestnadGit {
 
 	
@@ -29,4 +31,8 @@ public class TestnadGit {
 		String s ="hello";
 	}
 	
+	
+	public Person person(){
+		return new Person("nader","touibi","");
+	}
 }
