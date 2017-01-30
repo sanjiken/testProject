@@ -1,5 +1,7 @@
 package demo;
 
+
+import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,6 +31,20 @@ public class Aclass {
 
 	}
 	public float essai22(){
+		List<TestnadGit> tag = new ArrayList<TestnadGit>();
+		tag.add(new TestnadGit());
+		float b = 478;
+		float f = 1545;
+		
+		BigDecimal g = new BigDecimal(15);
+		if (g.equals(15)) {
+			g.divide(g,5);
+			System.out.println("this is your g : " + g);
+		}
+		
+		return (b*f);
+	}
+	public float essai23(){
 		List<TestnadGit> tag = new ArrayList<TestnadGit>();
 		tag.add(new TestnadGit());
 		float b = 478;
