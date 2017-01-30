@@ -84,5 +84,9 @@ public class Aclass {
 		float f = 1545;
 		return (b*f);
 	}
+	
+	public Person person(){
+		return new Person();
+	}
 
 }
