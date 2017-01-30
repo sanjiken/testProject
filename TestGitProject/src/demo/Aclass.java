@@ -1,5 +1,7 @@
 package demo;
 
+import java.lang.management.GarbageCollectorMXBean;
+
 public class Aclass {
 
 	public Test2 essai(){
@@ -17,6 +19,7 @@ public class Aclass {
 		if (a1.equals("jjjj")) {
 			a1 = "llllll";
 		}
+		String k = "kadhé";
 		return "a new class";
 		
 
