@@ -59,7 +59,15 @@ public class Aclass {
 		float f = 1545;
 		return (b*f);
 	}
-
-		
+	public List<TestnadGit> essai24(){
+		List<TestnadGit> tag = new ArrayList<TestnadGit>();
+		tag.add(new TestnadGit());
+		return tag;
+	}
+	public float essai235(){
+		float b = 478;
+		float f = 1545;
+		return (b*f);
+	}
 	
 }
