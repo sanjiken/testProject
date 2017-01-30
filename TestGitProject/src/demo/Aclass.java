@@ -93,8 +93,5 @@ public class Aclass {
 		return new Person(nom);
 	}
 	
-	public Person addPerson(String nom){
-		return new Person(nom);
-	}
 
 }
