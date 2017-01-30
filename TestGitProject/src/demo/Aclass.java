@@ -3,10 +3,13 @@ package demo;
 public class Aclass {
 
 	public Test2 essai(){
+
 		String a1 = "just for test";
+
 		int n = 100;
 		return new Test2();
 	}
+
 
 	public String essai2(){
 		
@@ -16,6 +19,7 @@ public class Aclass {
 		}
 		return "a new class";
 		
+
 	}
 	public float essai22(){
 		float b = 478;
