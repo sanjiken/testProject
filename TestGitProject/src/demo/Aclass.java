@@ -48,8 +48,10 @@ public class Aclass {
 		// just a comment
 		
 		p.setNom("nader");
+		p.setPrenom("preNader");
+		p.setPhone("nad Phone");
 		
-		
+		toList(p);
 		
 		return (b*f);
 	}
@@ -61,6 +63,26 @@ public class Aclass {
 		return (b*f);
 	}
 
+	public List<Person> toList( Person p ){
 		
+		ArrayList<Person> lp = new ArrayList<Person>();
+		
+		for (int i = 0; i < 5; i++) {
+			lp.add(p);
+		}
+		
+		return lp;
+	}
+		
+	public List<TestnadGit> essai24(){
+		List<TestnadGit> tag = new ArrayList<TestnadGit>();
+		tag.add(new TestnadGit());
+		return tag;
+	}
+	public float essai235(){
+		float b = 478;
+		float f = 1545;
+		return (b*f);
+	}
 	
 }
