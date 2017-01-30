@@ -85,8 +85,12 @@ public class Aclass {
 		return (b*f);
 	}
 	
-	public Person person(){
-		return new Person();
+	public Person addPerson(String nom, String prenom, String address){
+		return new Person(nom,prenom,address);
+	}
+ 
+	public Person addPerson(String nom){
+		return new Person(nom);
 	}
 
 }
