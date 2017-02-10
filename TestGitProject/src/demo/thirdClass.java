@@ -21,6 +21,10 @@ public class thirdClass {
 		System.out.println("coucou here i am raddadah"); 
 		System.out.println("coucou here i am racccdh"); 
 		System.out.println("coucou here i am cccccradh"); 
+		System.out.println("coucou here i am nad"); 
+		System.out.println("coucou here i am raddadah"); 
+		System.out.println("coucou here i am racccdh"); 
+		System.out.println("coucou here i am cccccradh"); 
 		
 		
 		
