@@ -17,10 +17,21 @@ public class thirdClass {
 		
 		//nader Comment
 		
+		System.out.println("coucou here i am nad"); 
+		System.out.println("coucou here i am raddadah"); 
+		System.out.println("coucou here i am racccdh"); 
+		System.out.println("coucou here i am cccccradh"); 
 		
 		
 		
-		
+		//nader Comment
+		//nader Comment
+		//nader Comment
+		//nader Comment
+		//nader Comment
+		//nader Comment
+		//nader Comment
+		//nader Comment
 		System.out.print("just for testing ariij rrrrr");System.out.print("just for testing ariij gggggg");
 		System.out.print("just for testing ariij vvvv");
 		
