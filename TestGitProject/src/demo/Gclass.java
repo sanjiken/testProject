@@ -37,6 +37,10 @@ public class Gclass {
 		super.finalize();
 	}
 
+	public String toTest(){
+		return "hlmhl";
+	}
+	
 	
 	/*
 	 * testtesttest
