@@ -46,7 +46,9 @@ public class Gclass {
 	 * testtesttest
 	 * 
 	 * changeA
+	 * changeB
 	 * changeX
+	 * change Y
 	 */
 	
 
