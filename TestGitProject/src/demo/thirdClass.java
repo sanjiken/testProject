@@ -25,9 +25,9 @@ public class thirdClass {
 		System.out.println("coucou here i am raddadah"); 
 		System.out.println("coucou here i am racccdh"); 
 		System.out.println("coucou here i am cccccradh"); 
+			
 		
-		
-		
+							
 		//nader Comment
 		//nader Comment
 		//nader Comment
