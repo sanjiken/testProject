@@ -19,6 +19,11 @@ public class Gclass {
 		// TODO Auto-generated method stub
 		return super.clone();
 	}
+	
+	protected Object ffffff() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
 
 	@Override
 	public String toString() {
