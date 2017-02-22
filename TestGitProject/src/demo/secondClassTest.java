@@ -17,6 +17,10 @@ public class secondClassTest {
 
 		String just = "just for testing";
 		
+		/*
+		 * some comment Arij
+		 */
+		
 	}
 
 }

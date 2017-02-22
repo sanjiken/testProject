@@ -30,6 +30,21 @@ public class Aclass {
 		String k = "kadhé";
 		return a3;
 		
+	}
+		
+		public String essai4(){
+			
+			String a1 = "just for test";
+			String a2 = "just for test 2";
+			String a3 = a1+a2;
+			if (a1.equals("jjjj")) {
+				a1 = "llllll";
+			}else{
+				a1 = "222222";
+			}
+			String k = "kadhé";
+			return a3;
+		
 
 	}
 	public float essai22(){
