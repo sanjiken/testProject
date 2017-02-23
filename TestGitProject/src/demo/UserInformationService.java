@@ -12,6 +12,9 @@ public class UserInformationService {
 	/**
 	 * @param args
 	 */
+	
+	private String todo; 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
@@ -20,5 +23,21 @@ public class UserInformationService {
 		 */
 		
 	}
+
+	/**
+	 * @return the todo
+	 */
+	public String getTodo() {
+		return todo;
+	}
+
+	/**
+	 * @param todo the todo to set
+	 */
+	public void setTodo(String todo) {
+		this.todo = todo;
+	}
+	
+	
 
 }
