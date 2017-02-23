@@ -20,6 +20,7 @@ public class secondClassTest {
 		/*
 		 * some comment Arij
 		 * nader comment
+		 * Some other arij comment
 		 */
 		
 	}
