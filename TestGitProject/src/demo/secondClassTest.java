@@ -19,6 +19,7 @@ public class secondClassTest {
 		
 		/*
 		 * some comment Arij
+		 * nader comment
 		 */
 		
 	}
