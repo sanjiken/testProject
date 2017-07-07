@@ -7,8 +7,9 @@ public class testClass {
 		System.out.println("coucou here i am ");
 		System.out.println("coucou here i am "); 
 		
-		
-		
+		/*
+		 * quelque commentaire
+		 */
 		String str = new Test2().testMethed();
 		
 		System.out.println("coucou here i am " + str); 
@@ -34,6 +35,14 @@ public class testClass {
 		System.out.println("coucou here i zeazeazfertyuyrtg");
 		System.out.println("coucou here i hthrthfffffffffffffffrth");
 		System.out.println("coucou here i 6666fffff6666aztrhrthrthrhhrthtrbyeazye666666");
+		
+		/*
+		 * testtest arij
+		 * test nader
+		 * trdt zrij
+		 * test nader2
+		 * test nader 3
+		 */
 
 
 	}

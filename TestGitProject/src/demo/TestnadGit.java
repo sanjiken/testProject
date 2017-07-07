@@ -9,7 +9,10 @@ public class TestnadGit {
 		
 		System.out.println("test nad ajout"); 
 		System.out.println("a new test");
-		
+		/*
+		 * ajoutTestArij
+		 * ajoutestNader
+		 */
 	}
 	
 	public void ajoutAnotherRound1(){

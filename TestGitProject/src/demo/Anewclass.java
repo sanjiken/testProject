@@ -31,4 +31,18 @@ public class Anewclass {
 		this.b=b;
 		this.test=test;
 	}
+	
+	/*
+	 * nader Comment
+	 */
+	
+	/*
+	 * Other nader test Comment
+	 */
+	
+	/*
+	 * Other Arij Comment
+	 */
+	
+	
 }

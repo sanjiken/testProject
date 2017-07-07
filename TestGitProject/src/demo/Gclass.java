@@ -1,0 +1,82 @@
+package demo;
+
+public class Gclass {
+
+	@Override
+	public int hashCode() {
+		// TODO Auto-generated method stub
+		return super.hashCode();
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		// TODO Auto-generated method stub
+		return super.equals(obj);
+	}
+
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
+	
+	protected Object ffffff() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
+
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
+
+	@Override
+	protected void finalize() throws Throwable {
+		// TODO Auto-generated method stub
+		super.finalize();
+	}
+
+	public String toTest(){
+		return "hlmhl";
+	}
+	
+	
+	/*
+	 * testtesttest
+	 * 
+	 * changeA
+	 * changeB
+	 * changeX
+	 * change Y
+	 */
+	
+
+	/*
+	 * testtesttest
+	 * Arij change
+	 * nader chage
+	 */
+
+	/*
+	 * testtesttest
+	 * 
+	 * llllll
+	 * 
+	 */
+
+	/*
+	 * testtesttest
+	 */
+
+	/*
+	 * testtesttest
+	 */
+
+	/*
+	 * testtesttest
+	 */
+	
+	
+	
+}
