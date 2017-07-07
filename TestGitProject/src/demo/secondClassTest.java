@@ -16,6 +16,7 @@ public class secondClassTest {
 		// TODO Auto-generated method stub
 
 		String just = "just for testing";
+		String n = "";
 		
 	}
 

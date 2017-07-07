@@ -27,7 +27,6 @@ public class Aclass {
 		}else{
 			a1 = "222222";
 		}
-		String k = "kadhé";
 		return a3;
 		
 
